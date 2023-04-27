@@ -8,7 +8,6 @@
 # 🌱 I’m currently learning so many things: Linux, Windows, Networking, Bash, Python... The list goes on!
 
 # 💞️ I’m looking to collaborate on your team when you hire me!
-
-#📫 How to reach me: grahmik@gmail.com or find my LinkedIn @ https://www.linkedin.com/in/grahmik
+# 📫 How to reach me: grahmik@gmail.com or find my LinkedIn @ https://www.linkedin.com/in/grahmik
 
 
