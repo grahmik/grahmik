@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @grahmik AKA Mike Graham
 
-# 👀 I’m a student at The University of Kansas. I am deepy fascinated by coding/scripting, Linux and all things Cyber Security.
+# 👀 I’m a student at The University of Kansas. I am deeply fascinated by coding/scripting, Linux and all things Cyber Security.
 # I spend countless hours in my free time learning and improving. I am a member of Hack The Box and Pico CTF.
 # My current obsession is Python 3. 
 
