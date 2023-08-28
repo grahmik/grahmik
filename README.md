@@ -6,7 +6,7 @@
 
 • My current obsession is Python 3. 
 
-• 💞️ I’m looking to collaborate on your team when you hire me!
+• 💞️ I’m looking to collaborate on your team when you hire me! I have a willingness to learn and the drive to do it.
 
 • 📫 How to reach me: grahmik@gmail.com or find my LinkedIn @ https://www.linkedin.com/in/grahmik
 
